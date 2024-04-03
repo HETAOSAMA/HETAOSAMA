@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📈 my github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HETAOSAMA&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HETAOSAMA&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HETAOSAMA&theme=dark)](https://git.io/streak-stats)
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=HETAOSAMA&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HETAOSAMA&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
+</p>
